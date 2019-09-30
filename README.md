@@ -16,7 +16,7 @@ This reference tool will eventually include thousands of articles that cover all
 
 This repo is where we plan and maintain these Guide articles, which we then host on our community's wiki-like Guide website at [`guide.freecodecamp.org`](https://guide.freecodecamp.org).
 
-## What are Guide articles?
+## What are Guide articles??
 
 The Guide articles aim to be short articles to get you started and familiar with these concepts before going on to read more in-depth material.
 
